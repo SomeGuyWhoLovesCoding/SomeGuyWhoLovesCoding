@@ -1,6 +1,6 @@
 - 👋 Hi!
-- 👀 I'm currently working on FNF Zenith.
-- 🌱 School Days at Monday to Friday
+- 👀 I'm currently working on Funkin' View.
+- 🌱 School Days at Monday to Friday (Almost time to exit christmas break)
 - 💞️ Contributions: Helped at the haxe repository, and helped at JS engine's chart loader (AAAAAAAAAAAAAAHHHHH)
 - 📫 Subscribe to me at [My Youtube Channel](https://www.youtube.com/c/someguywholikesfnf/featured)
 - [MY NEW MUSIC CHANNEL!](https://www.youtube.com/@VE-Official)
