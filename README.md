@@ -1,6 +1,6 @@
 - 👋 Hi!
 - 👀 I'm currently working on Funkin' View.
-- 🌱 School Days at Monday to Friday (Almost time to exit christmas break)
+- 🌱 School Days at Monday to Friday
 - 💞️ Contributions:
 1. Helped at the haxe repository to no avail
 2. Helped at JS engine's chart loader (AAAAAAAAAAAAAAHHHHH)
